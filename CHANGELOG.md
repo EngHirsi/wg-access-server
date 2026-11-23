@@ -1,3 +1,4 @@
+- 2026-11-23: docs: clarified the quick start after user feedback
 # Changelog
 
 All notable changes to this project will be documented in this file.
